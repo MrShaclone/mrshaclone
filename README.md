@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left"><br><br>Olá, eu sou o Ricardo, tenho 21 anos e sou estudante de Técnico em Desenvolvimento de Sistemas no Senac Sorocaba. Gosto de programação e sou apaixonado por jogos.<br><br>- 🔭 Eu trabalho como assistente administrativo na SX Negócios.<br>- 📚 Atualmente, estou aprendendo sobre algumas linguagens que ainda não domino.<br>- ⚡ No meu tempo livre, gosto de jogar e fazer projetos próprios.</p>
+<p align="left"><br><br>Olá, eu sou o Ricardo, tenho 22 anos e sou estudante de Técnico em Desenvolvimento de Sistemas no Senac Sorocaba. Gosto de programação e sou apaixonado por jogos.<br><br>- 🔭 Eu trabalho como assistente administrativo na Pulse Client Experts.<br>- 📚 Atualmente, estou aprendendo sobre algumas linguagens que ainda não domino.<br>- ⚡ No meu tempo livre, gosto de jogar e fazer projetos próprios.</p>
 
 ###
 
